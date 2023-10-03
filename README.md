@@ -10,7 +10,7 @@
                 'frontend': ['HTML', 'CSS', 'JavaScript','Boostrap'],
                 'backend': ['Python', 'java'],
                 'database': [ 'MySQL', 'MariaDB'],
-                'tools': ['GIT', 'GitHub', 'Gitdesktop'],
+                'tools': ['GIT', 'GitHub', 'Githubdesktop'],
                 'misc':'SCRUM'
             }
 
