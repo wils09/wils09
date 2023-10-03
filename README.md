@@ -1,4 +1,4 @@
-
+class CrisCoradini:
 class CrisCoradini:
 
     def __init__(self):
