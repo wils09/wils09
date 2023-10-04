@@ -1,7 +1,7 @@
 
 
 
-<img src="../img/hola.png">
+![marcado 1](/img/hola.png)
 
     class CrisCoradini:
         def __init__(self):
