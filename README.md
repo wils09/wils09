@@ -1,7 +1,5 @@
+![marcado 1](/img/banner%20github.png)
 
-
-
-![marcado 1](/img/hola.png)
 
     class CrisCoradini:
         def __init__(self):
