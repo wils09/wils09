@@ -32,7 +32,9 @@
 
             if now < today:
                 experience=self.project[backend]
-                return "I was a backend dev in {project1} and {project2}".format(project1=experience[0], project2=experience[1])
+                return """
+                I was a backend dev in {project1} and {project2}
+                """.format(project1=experience[0], project2=experience[1])
 
             elif now = today:
                 dream = self.education['programming']
