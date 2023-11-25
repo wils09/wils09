@@ -1,9 +1,11 @@
 ![marcado 1](/img/banner%20github.png)
 
 ```javascript
+
     class CrisCoradini:
 
         def __init__(self):
+        
             self.username = 'wils09'
             self.name = 'Cris Coradini'
             self.web = ''
@@ -21,7 +23,6 @@
         if __name__ == '__main__':
             me = CrisCoradini()
 ```
-
 
 
 
