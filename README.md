@@ -1,5 +1,7 @@
 ![marcado 1](/img/banner%20github.png)
 
+### Hi there 👋 🖥️🎧
+✨✨✨✨✨
 ```javascript
 
     class CrisCoradini:
@@ -23,13 +25,15 @@
         if __name__ == '__main__':
             me = CrisCoradini()
 ```
+You can find me📡:
+- [linkedin](http://www.linkedin.com/in/criscoradiniprogramacion)
+- [instagram](https://instagram.com/wilsoncris09)
 
 
+<!--
 
-<!--### Hi there 👋
 
-
-**wils09/wils09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wils09/wils09** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
